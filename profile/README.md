@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are a dedicated software company based in Gothenburg that helps companies build and launch products that people love.
+We help companies build and launch products that people love.
 
 Our expertise is not just about launching products efficiently; it's about nurturing these products to reach millions, ensuring your business thrives and leads in its domain.
 
