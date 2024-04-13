@@ -2,6 +2,10 @@
 
 Welcome to Fiive! 🚀
 
-We are a dedicated software company based in Gothenburg, Sweden. Our passion lies in assisting businesses in realizing their full software potential. From DevOps to AI, from software development to SaaS - we ensure that your vision transforms into reality.
+We are a dedicated software company based in Gothenburg that helps companies build and launch products that people love.
 
-Here at Fiive, our love for technology doesn't stop at the office doors. We also believe in the power of open source and its ability to foster collaboration, innovation, and shared progress. This is why, apart from our professional projects, we also invest our time and skills into developing side projects for our own use and then open-sourcing them on GitHub. 
+Our expertise is not just about launching products efficiently; it's about nurturing these products to reach millions, ensuring your business thrives and leads in its domain.
+
+What's different about Fiive? We’re not just another service provider; we’re your partner for success. We stick with you, improving your solutions and helping you stay ahead.
+
+Ready for a change? Contact us at Fiive.
